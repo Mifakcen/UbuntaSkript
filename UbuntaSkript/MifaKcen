@@ -1,3 +1,12 @@
 Создать скрипт который будет делать автокомины и при налиции сети выгружать изменения в сеть
 https://github.com/MifaKcen
 https://github.com/Mifakcen/UbuntaSkript.git
+
+
+git add *  //отметить все изменения
+git commit //создать коммит с описанием изменений 
+git push origin master //отправить коммит в ветвь мастера
+
+git add *
+git commit
+git push origin master
