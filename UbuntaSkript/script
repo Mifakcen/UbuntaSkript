@@ -1,7 +1,6 @@
 #!/bin/bash
 
-cd /home/mif/'Рабочий стол'/Mif/GitAvtoCommit
-ssh -T git@github.com
+cd /home/mif/'Рабочий стол'/Mif/UbuntaSkript
 git add *
 git commit -a -m 'autocommit'
 git push origin master 
