@@ -1,5 +1,5 @@
 #!/bin/bash
 
 cd /home/mif/'Рабочий стол'/Mif/UbuntaSkript/UbuntaSkript
-echo $(date +%d-%m-%Y\ %H:%M:%S) >> /home/mif/'Рабочий стол'/Mif/UbuntaSkript/UbuntaSkript/MifaKcen.txt
+echo $(date +%d-%m-%Y\ %H:%M:%S) >> /home/mif/'Рабочий стол'/Mif/UbuntaSkript/UbuntaSkript/MifaKcen
 
