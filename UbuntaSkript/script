@@ -4,4 +4,4 @@ cd /home/mif/'Рабочий стол'/Mif/UbuntaSkript
 git add *
 git commit -a -m 'autocommit'
 git push origin master 
-
+echo $(date +%d-%m-%Y\ %H:%M:%S) >> /home/mif/'Рабочий стол'/Mif/UbuntaSkript/UbuntaSkript/data.txt

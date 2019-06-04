@@ -10,3 +10,4 @@ git push origin master //отправить коммит в ветвь маст�
 git add *
 git commit
 git push origin master
+
